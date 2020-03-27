@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="style.css">
+        <script type="text/javascript" src="./node_modules/vue/dist/vue.js"></script>
+        <title>Jeu du Simon</title>
+    </head>
+    <body>
+    <div id="app">
+        <button @click="newGame">
+            NOUVELLE PARTIE
+        </button>
+        <hr>
+        <h3>{{ score }}</h3>
+        <hr>
+        <div>
+            <span class="carre" @click="selectSquare('hautGauche')" :class="{ bleu: hautGauche }"></span>
+            <span class="carre" @click="selectSquare('hautDroite')" :class="{ rouge: hautDroite }"></span>
+        </div>
+        <div>
+            <span class="carre" @click="selectSquare('basGauche')" :class="{ vert: basGauche }"></span>
+            <span class="carre" @click="selectSquare('basDroite')" :class="{ jaune: basDroite }"></span>
+        </div>
+    </div>
+
+
+    <script type="text/javascript" src="./index.js" ></script>
+    </body>
+</html>
