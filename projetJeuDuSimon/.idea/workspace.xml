@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5023a1a5-5083-4100-ba94-e98ee4a57afd" name="Default Changelist" comment="" />
+    <list default="true" id="5023a1a5-5083-4100-ba94-e98ee4a57afd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ZfYTaiZWDYLB37E2jvfOWbOmSi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -46,7 +53,8 @@
       <option name="presentableId" value="Default" />
       <updated>1585231623214</updated>
       <workItem from="1585231624422" duration="7155000" />
-      <workItem from="1585298325370" duration="6881000" />
+      <workItem from="1585298325370" duration="6887000" />
+      <workItem from="1585520166235" duration="490000" />
     </task>
     <servers />
   </component>
@@ -54,6 +62,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="933" y="167" key="FileChooserDialogImpl" timestamp="1585319232784">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="933" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585319232784" />
     <state x="849" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1585298382096">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
